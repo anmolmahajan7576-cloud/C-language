@@ -1,0 +1,15 @@
+//two number sum and difference
+#include <stdio.h>
+
+int main() {
+int a,b,c,d;
+    printf("enter the value of a ");
+    scanf("%d",&a);
+    printf("enter the value of b ");
+    scanf("%d",&b);
+    c=a+b;
+    printf("sum= %d\n",c);
+     d=a-b;
+    printf("subtract=%d\n",d);
+    return 0;
+}
