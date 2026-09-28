@@ -1,0 +1,2 @@
+1.even or odd
+2.factorial
