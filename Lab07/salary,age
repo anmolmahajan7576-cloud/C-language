@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+ int s,a;
+    printf("enter the salary ");
+    scanf("%d",&s);
+    printf("enter the age ");
+    scanf("%d",&a);
+    printf(" print salary=%d\n",s);
+    printf("print age=%d\n",a);
+}
