@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+    int n;
+    int pro=1 ;
+    printf("Enter the value  of n ");
+    scanf("%d",&n);
+          int a =n%10;
+         pro=a*a;
+          printf("last digit square %d",pro);
+       return 0;
+}
