@@ -1,0 +1,2 @@
+1.Pass and Fail
+2.Upper case and Lower case
