@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+{
+     float cost[3];
+     printf("enter 3 cost ");
+     scanf("%f",&cost[0]);
+     scanf("%f",&cost[1]);
+     scanf("%f",&cost[2]);    
+     for(int i = 0 ;i<3;i++){
+     printf("%f\n", cost[i]+(0.18*cost[i]));
+     }
+     return 0;
+}
